@@ -19,3 +19,13 @@
 
 # Go workspace file
 go.work
+
+# dont commit the .env file
+.env
+.env.local
+
+# also don't commit IDE files
+.idea/
+
+# dont commit built binary
+/kk
