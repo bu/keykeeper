@@ -1,0 +1,9 @@
+Lang:
+  Code: zh-hant
+  Name: 繁體中文
+  Author: Buwei Chiu <bu@x2d.cc>
+
+# Strings
+Strings:
+  greetings: 早安世界
+

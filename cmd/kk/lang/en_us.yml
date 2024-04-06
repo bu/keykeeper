@@ -1,0 +1,15 @@
+Lang:
+  Code: en
+  Name: English
+  Author: Buwei Chiu
+
+# Strings
+Strings:
+  error.unknown_command: |
+    Unknown command: %s
+
+  error.list.invalid_arguments: |
+    List command only accept 1 argument, but received %d arguments
+
+  error.dispatch.dispatching_dispatch: |
+    Cannot dispatch to dispatch command
