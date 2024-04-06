@@ -167,8 +167,7 @@ func (h *ListHandler) showFile(env *HandlerEnv, path string, _ *model.ListFlag) 
 
 	// print the content
 	fmt.Print("\033[H\033[2J\033[3J")
-	fmt.Println(string(decryptedContent))
-	fmt.Print("\033[H")
+	fmt.Print(string(decryptedContent))
 	fmt.Print("\n")
 
 	return nil
