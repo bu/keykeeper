@@ -23,3 +23,6 @@ go.work
 
 # editor files
 .idea
+
+# built binaries
+/kk
